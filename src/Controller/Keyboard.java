@@ -36,6 +36,7 @@ public class Keyboard implements KeyListener{
 				break;
 			case KeyEvent.VK_B:
 				game.dropBomb("bomb", player1);
+//commentaire
 		}
 	}
 
